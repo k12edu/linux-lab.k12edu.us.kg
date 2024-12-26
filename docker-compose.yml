@@ -1,5 +1,5 @@
 x-default-opts: &default-opts
-  restart: always
+  restart: unless-stopped
   tty: true
   stdin_open: true
   privileged: false

@@ -1,26 +1,26 @@
-# Linux Lab:學習更多開發技巧
-## 起源
-台灣國立宜蘭大學  
-資訊工程學系 RFID 實驗室  
-🎓 2024 畢業專題 - [k12edu Github 組織](https://github.com/k12edu)  
+# Linux Lab: Learn More Development Skills
 
-## Linux 基礎教學文檔(附 Youtube 影片)
-| 示意圖 | 連結 |
+## Origin
+National Ilan University, Taiwan  
+Department of Computer Science and Information Engineering, RFID Lab  
+🎓 Capstone project, 2024 - [k12edu GitHub Organization](https://github.com/k12edu)  
+
+## Linux Basic Tutorial Documents (with YouTube Videos)
+| Preview | Link |
 |:----:|:----:|
-| ![VScode/Git/Github]() | [基礎 VScode/Git/Github 操作]() |
-| ![Colab/CodeSpace]() | [免費資源介紹 - Google Colab, Github CodeSpace]() |
-| ![Linux Dis]() | [不同 Linux 發行版介紹]() |
-| ![Virtualbox]() | [Virtualbox(虛擬機軟體) 與 Linux 虛擬機]() |
-| ![OpenSSH]() | [SSH 遠端開發]() |
-| ![Docker]() | [Linux Docker 安裝與操作]() |
+| ![VScode/Git/Github]() | [Basic Operations with VScode/Git/GitHub]() |
+| ![Colab/CodeSpace]() | [Introduction to Free Resources - Google Colab, GitHub Codespaces]() |
+| ![Linux Dis]() | [Introduction to Different Linux Distributions]() |
+| ![Virtualbox]() | [Virtualbox (Virtual Machine Software) and Linux Virtual Machines]() |
+| ![OpenSSH]() | [SSH Remote Development]() |
+| ![Docker]() | [Linux Docker Installation and Usage]() |
 
-## Linux 進階教學文檔(附 Youtube 影片)
-| 示意圖 | 連結 |
+## Linux Advanced Tutorial Documents (with YouTube Videos)
+| Preview | Link |
 |:----:|:----:|
-| ![Proxmox VE]() | [Proxmox VE 虛擬化平台]() |
-| ![Docker Compose]() | [Docker Compose 容器群設定]() |
+| ![Proxmox VE]() | [Proxmox VE Virtualization Platform]() |
+| ![Docker Compose]() | [Docker Compose for Container Orchestration]() |
 
-
-## 使用開源工具或免費資源
-- [網頁框架](https://github.com/docsifyjs/docsify)
-- [網頁中部份圖片](./_media/source.md)
+## Using Open Source Tools or Free Resources
+- [Web Framework](https://github.com/docsifyjs/docsify)
+- [Partial Images on the Website](./_media/source.md)
