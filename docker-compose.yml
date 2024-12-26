@@ -8,9 +8,12 @@ x-default-opts: &default-opts
 services:
   nginx:
     <<: *default-opts
-    image: node:18
+    build: 
+      context: .
+      dockerfile: dockerfile
     container_name: linux-lab-markdown
     volumes:
       - "./:/app"
     ports:
       - "3000:3000"
+    command: sh -c "cd /app && docsify serve docs -p 3000"
