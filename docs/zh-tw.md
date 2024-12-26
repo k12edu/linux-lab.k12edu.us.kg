@@ -14,13 +14,8 @@
 | ![OpenSSH](./_images/SSH.png) | <span style="font-size: 20px;">[SSH 遠端開發]()</span> |
 | ![Docker](./_images/Docker.png) | <span style="font-size: 20px;">[Linux Docker 安裝與操作]()</span> |
 
-
 ## Linux 進階教學文檔(附 Youtube 影片)
 | 示意圖 | 連結 |
 |:----:|:----:|
 | ![Proxmox VE](./_images/Proxmox.png) | <span style="font-size: 20px;">[Proxmox VE 虛擬化平台]()</span> |
 | ![Docker Compose](./_images/Docker-Compose.png) | <span style="font-size: 20px;">[Docker Compose 容器群設定]()</span> |
-
-## 使用開源工具或免費資源
-- [網頁框架](https://github.com/docsifyjs/docsify)
-- [網頁中部份圖片](./_media/source.md)
