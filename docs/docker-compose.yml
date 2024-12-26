@@ -1,0 +1,16 @@
+x-default-opts: &default-opts
+  restart: always
+  tty: true
+  stdin_open: true
+  privileged: false
+  ipc: private
+  
+services:
+  nginx:
+    <<: *default-opts
+    image: node:18
+    container_name: linux-lab-markdown
+    volumes:
+      - "./:/app"
+    ports:
+      - "3000:3000"
