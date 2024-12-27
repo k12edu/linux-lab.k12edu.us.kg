@@ -6,14 +6,14 @@ x-default-opts: &default-opts
   ipc: private
   
 services:
-  nginx:
+  web:
     <<: *default-opts
     build: 
       context: .
       dockerfile: dockerfile
     container_name: linux-lab-markdown
     volumes:
-      - "./:/app"
+      - "./:/home/user/app"
     ports:
       - "3000:3000"
-    command: sh -c "cd /app && docsify serve docs -p 3000"
+    command: sh -c "cd /home/user/app && docsify serve docs -p 3000"
