@@ -5,7 +5,7 @@
 🎓 2024 畢業專題 - **[k12edu Github 組織](https://github.com/k12edu)**  
 製作人 : [XuanYou Lin 個人網頁](https://xuanyou-lin.us.kg/)</span>
 
-# 詳細教程
+## 詳細教程
 <span style="font-size: 20px;">請點擊網頁右上角的**初階技巧,中階技巧,進階技巧**  
 可登入[Roadmap網站紀錄學習進度](https://roadmap.sh/)</span>
 
