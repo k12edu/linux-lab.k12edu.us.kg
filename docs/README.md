@@ -2,33 +2,59 @@
 ## 起源
 <span style="font-size: 20px;">台灣國立宜蘭大學  
 資訊工程學系 RFID 實驗室  
-🎓 2024 畢業專題 - **[k12edu Github 組織](https://github.com/k12edu)**  </span>
+🎓 2024 畢業專題 - **[k12edu Github 組織](https://github.com/k12edu)**  
+製作人 : [XuanYou Lin 個人網頁](https://xuanyou-lin.us.kg/)</span>
 
-## 基礎開發技術教學(附影片)
+## [基礎技術教學](/Basic/)
 | <span style="font-size: 24px;">示意圖</span> | <span style="font-size: 24px;">連結</span> |
 |:----:|:----:|
-| ![VScode/Git/Github](./_images/vscode_git_github.png) | <span style="font-size: 20px;">[基礎 VScode/Git/Github 操作]()</span> |
-| ![Colab/CodeSpace](./_images/Colab-CodeSpace.png) | <span style="font-size: 20px;">[免費資源介紹 - Google Colab, Github CodeSpace]()</span> |
-| ![Linux distro](./_images/Linux-distro.png) | <span style="font-size: 20px;">[不同 Linux 發行版介紹]()</span> |
-| ![Virtualbox](./_images/Virtualbox.png) | <span style="font-size: 20px;">[Virtualbox(虛擬機軟體) 與 Linux 虛擬機]()</span> |
-| ![OpenSSH](./_images/SSH.png) | <span style="font-size: 20px;">[SSH 遠端開發]()</span> |
-| ![Docker](./_images/Docker.png) | <span style="font-size: 20px;">[Linux Docker 安裝與操作]()</span> |
+| ![VScode/Git/Github](../_images/vscode_git_github.png) | <span style="font-size: 20px;">[版本控制]()</span> |
+| ![Colab/CodeSpace](../_images/Colab-CodeSpace.png) | <span style="font-size: 20px;">[線上程式開發工具]()</span> |
+| ![Linux distro](../_images/Linux-distro.png) | <span style="font-size: 20px;">[Linux 發行版介紹]()</span> |
+| ![Virtualbox](../_images/Virtualbox.png) | <span style="font-size: 20px;">[虛擬機技術 - Virtualbox軟體]()</span> |
+| ![Docker](../_images/Docker.png) | <span style="font-size: 20px;">[容器化技術 - Docker初階]()</span> |
+| ![OpenSSH](../_images/SSH.png) | <span style="font-size: 20px;">[遠端開發 - SHH]()</span> |
+| ![VPN](../_images/待製作.png) | <span style="font-size: 20px;">[VPN(虛擬區域網)]()</span> |
 
-## 中階開發技術教學(附影片)
+## 基礎技術路線圖(/Basic/)
+<div style="background-color: white; width: 100%; height: 500px; overflow: hidden;">
+  <iframe src="https://roadmap.sh/r/embed?id=676f693370129741a8aac914" 
+          width="100%" 
+          height="500px" 
+          frameborder="0" 
+          style="background: transparent;">
+  </iframe>
+</div>
+
+## 中階技術教學(/Mid/)
 | 示意圖 | 連結 |
 |:----:|:----:|
-| ![Docker Compose](./_images/Docker-Compose.png) | <span style="font-size: 20px;">[Docker Compose 容器群設定]()</span> |
-| ![Docker Hub](./_images/Docker-hub.png) | <span style="font-size: 20px;">[Docker Hub 鏡像保存]()</span> |
-| ![Proxmox VE](./_images/Proxmox.png) | <span style="font-size: 20px;">[Proxmox VE 虛擬化平台]()</span> |
+| ![Docker進階](../_images/待製作.png) | <span style="font-size: 20px;">[Docker進階]()</span> |
+| ![伺服器開發](../_images/待製作.png) | <span style="font-size: 20px;">[伺服器開發]()</span> |
+| ![Proxmox VE](../_images/Proxmox.png) | <span style="font-size: 20px;">[虛擬化平台]()</span> |
 
-## 進階開發技術教學(附影片)
+## 中階技術路線圖(/Mid/)
+<div style="background-color: white; width: 100%; height: 500px; overflow: hidden;">
+  <iframe src="https://roadmap.sh/r/embed?id=676f9ae770129741a8b06533" 
+          width="100%" 
+          height="500px" 
+          frameborder="0" 
+          style="background: transparent;">
+  </iframe>
+</div>
+
+## 進階技術教學(/Advanced/)
 | 示意圖 | 連結 |
 |:----:|:----:|
-| ![CI/CD](./_images/Proxmox.png) | <span style="font-size: 20px;">[CI/CD 持續性提交與自動化部屬]()</span> |
-| ![Github Actions](./_images/Docker-hub.png) | <span style="font-size: 20px;">[Github Actions 自動化流程]()</span> |
-| ![Kubernetes](./_images/Docker-Compose.png) | <span style="font-size: 20px;">[Kubernetes 伺服器架構]()</span> |
+| ![CI/CD](../_images/待製作.png) | <span style="font-size: 20px;">[CI/CD]()</span> |
+| ![Kubernetes](../_images/待製作.png) | <span style="font-size: 20px;">[Kubernetes]()</span> |
 
-## 測試複製
-```bash
-sudo apt update
-```
+## 進階技術路線圖(/Advanced/)
+<div style="background-color: white; width: 100%; height: 500px; overflow: hidden;">
+  <iframe src="https://roadmap.sh/r/embed?id=676fdebf70129741a8ba3c0c" 
+          width="100%" 
+          height="500px" 
+          frameborder="0" 
+          style="background: transparent;">
+  </iframe>
+</div>
